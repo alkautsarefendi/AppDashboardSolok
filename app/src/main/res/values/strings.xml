@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Informasi Manajement</string>
+    <string name="login">Login</string>
+    <string name="login_toolbar">Login</string>
+    <string name="logout">Logout</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="loket">Loket</string>
+    <string name="wilayah">Wilayah</string>
+    <string name="harian">Harian</string>
+    <string name="baca_meter">Baca Meter</string>
+    <string name="ganti_meter">Ganti Meter</string>
+    <string name="pasang_baru">Pasang Baru</string>
+    <string name="pasang_baru_sumary">Pasang Baru Summary</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_rekapitulasi">Rekapitulasi Penerimaan Pembayaran</string>
+    <string name="minggu_ini">Minggu Ini</string>
+    <string name="bulan_ini">Bulan Ini</string>
+    <string name="tahun_ini">Tahun Ini</string>
+    <string name="transaksi_hari_ini">Transaksi Hari Ini</string>
+    <string name="jumlah_transaksi">Jumlah Transaksi</string>
+    <string name="nominal_transaksi">Nominal Transaksi</string>
+    <string name="tagihan_bulan_ini">Tagihan Bulan Ini</string>
+    <string name="total_rek">Total Rek.</string>
+    <string name="rek_air">Rek. Air</string>
+    <string name="piutang">Piutang</string>
+    <string name="penerimaan_loket">Penerimaan Loket</string>
+    <string name="periode_pembayaran">Periode</string>
+    <string name="lembar_rekening">Lembar Rekening</string>
+    <string name="nominal_rekenig">Nominal Rekenig</string>
+    <string name="tanggal_hari_ini">Tanggal Hari Ini</string>
+    <string name="penerimaan_wilayah">Penerimaan Wilayah</string>
+    <string name="lembar_rekening_s_d_hari_ini">Lembar Rekening s.d Hari Ini</string>
+    <string name="rekening_air_s_d_hari_ini">Rekening Air s.d Hari Ini</string>
+    <string name="persentase">Persentase</string>
+    <string name="penerimaan_harian">Penerimaan Harian</string>
+    <string name="total_lembar">Total Lembar</string>
+    <string name="total_biaya_air">Total Biaya Air</string>
+    <string name="total_denda">Total Denda</string>
+    <string name="total_matrai">Total Matrai</string>
+    <string name="periode">Periode</string>
+    <string name="periode_pembacaan">Periode Pembacaan</string>
+    <string name="total_pelanggan">Total Pelanggan</string>
+    <string name="jumlah_pembacaan">Jumlah Pembacaan</string>
+    <string name="persentase_baca_meter">Persentase Baca Meter</string>
+    <string name="total_ganti_water_meter">Total Ganti Water Meter</string>
+    <string name="periode_pasang_baru">Periode Pasang Baru</string>
+    <string name="jumlah_permintaan">Jumlah Permintaan</string>
+    <string name="jumlah_terpasang">Jumlah Terpasang</string>
+    <string name="periode_pasang_baru_summary">Periode Pasang Baru Summary</string>
+    <string name="total_daftar">Total Daftar</string>
+    <string name="total_survey">Total Survey</string>
+    <string name="home">Home</string>
+
+</resources>

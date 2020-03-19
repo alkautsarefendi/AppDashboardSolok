@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_nav"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@drawable/dashbor_nav"
+            android:title="@string/dashboard" />
+        <item
+            android:id="@+id/nav_loket"
+            android:icon="@drawable/loket_nav"
+            android:title="@string/loket" />
+        <item
+            android:id="@+id/nav_wilayah"
+            android:icon="@drawable/wilayah_nav"
+            android:title="@string/wilayah" />
+        <item
+            android:id="@+id/nav_harian"
+            android:icon="@drawable/harian_nav"
+            android:title="@string/harian" />
+        <item
+            android:id="@+id/nav_baca_meter"
+            android:icon="@drawable/bacameter_nav"
+            android:title="@string/baca_meter" />
+        <item
+            android:id="@+id/nav_ganti_meter"
+            android:icon="@drawable/gantimeter_nav"
+            android:title="@string/ganti_meter" />
+        <item
+            android:id="@+id/nav_pasang_baru"
+            android:icon="@drawable/pasangbaru_nav"
+            android:title="@string/pasang_baru" />
+        <item
+            android:id="@+id/nav_pasang_baru_sumary"
+            android:icon="@drawable/pasangbarusummary_nav"
+            android:title="@string/pasang_baru_sumary" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/exit"
+                android:title="@string/logout" />
+        </menu>
+    </item>
+
+</menu>
